@@ -1,17 +1,11 @@
-/args
-/bin
-/.kube-secrets
-/tmp/*
-/dev
-/test
-/logs
-
-.vscode
-.idea
-*.DS_Store
-*amd64
-*.html
-
-# Output of the go coverage tool
+.note
+main
+seqdiagram.diag
+cmi-plugin
 *coverprofile.out*
-/local/
+bin/
+.idea
+/dev
+.cache_ggshield
+.vscode
+*.test
